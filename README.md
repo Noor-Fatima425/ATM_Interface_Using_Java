@@ -6,13 +6,17 @@ This ATM interface project mimics the basic functionality of an automated teller
  IMPLEMENTATION
 STEP1:- Compile and Execute the program in
 command prompt as shown below.
+
 STEP2:- A Home page will appear and press continue.
+
 STEP3:- The login form will be opened where you will
 have to enter Account number which contains 8 to 16
 digits and should enter pin number which contains 4
 digits and press login.
+
 STEP4:-The Menu page will be opened and there will
 be 4 options Withdraw, Deposit, Balance enquiry, exit.
+
 STEP5:- For Withdrawing money press withdraw and
 enter amount you want to withdraw and press submit.
 After the balance page opened press exit.
